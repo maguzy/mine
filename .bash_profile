@@ -28,7 +28,7 @@ export COLOR_YELLOW='\e[1;33m'
 export COLOR_GRAY='\e[0;30m'
 export COLOR_LIGHT_GRAY='\e[0;37m'
 
-
+ 
 export PS1=${YELLOW}'Brasil! '${GREEN}'\W'${YELLOW}' \u: '${GREEN}
 
 # export PS1='u@h[[01;34m] w[[0;32m]$(__git_ps1 " (%s)")[[01;34m]$[[00m] '
